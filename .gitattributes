@@ -1,0 +1,3 @@
+# Scripts do Maven Wrapper: cada sistema com a quebra de linha que entende
+mvnw text eol=lf
+*.cmd text eol=crlf
